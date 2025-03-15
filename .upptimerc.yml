@@ -3,11 +3,11 @@ owner: BeeSting50 # Your GitHub organization or username, where this repository 
 repo: Abstract-Status # The name of this repository
 
 sites:
-  - name: Home
+  - name: 🏠 Home
     url: https://www.abstract-hosting.com
-  - name: Billing
+  - name: 🧾 Billing
     url: https://billing.abstract-hosting.com
-  - name: c1
+  - name: 💻 c1
     url: https://c1.my-control-panel.com
     method: POST
 
