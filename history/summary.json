@@ -4,19 +4,19 @@
     "url": "https://www.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.abstract-hosting.com.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 697,
     "timeDay": 697,
     "timeWeek": 697,
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-03-16": 7
+      "2025-03-16": 2
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://billing.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1466,
     "timeDay": 1466,
     "timeWeek": 1466,
     "timeMonth": 1466,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2025-03-16": 5
+      "2025-03-16": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://c1.my-control-panel.com",
     "icon": "https://icons.duckduckgo.com/ip3/c1.my-control-panel.com.ico",
     "slug": "c1",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2343,
     "timeDay": 2343,
     "timeWeek": 2343,
     "timeMonth": 2343,
     "timeYear": 2343,
     "dailyMinutesDown": {
-      "2025-03-16": 5
+      "2025-03-16": 0
     }
   }
 ]
