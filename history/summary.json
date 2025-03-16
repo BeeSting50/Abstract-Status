@@ -4,19 +4,19 @@
     "url": "https://www.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.abstract-hosting.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "96.10%",
-    "time": 6048,
-    "timeDay": 6948,
-    "timeWeek": 6048,
-    "timeMonth": 6048,
-    "timeYear": 6048,
+    "status": "up",
+    "uptime": "95.81%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "95.81%",
+    "time": 5697,
+    "timeDay": 6474,
+    "timeWeek": 5697,
+    "timeMonth": 5697,
+    "timeYear": 5697,
     "dailyMinutesDown": {
-      "2025-03-16": 68
+      "2025-03-16": 73
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://billing.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
-    "time": 5266,
-    "timeDay": 6074,
-    "timeWeek": 5266,
-    "timeMonth": 5266,
-    "timeYear": 5266,
+    "status": "up",
+    "uptime": "96.71%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "96.71%",
+    "time": 5551,
+    "timeDay": 6336,
+    "timeWeek": 5551,
+    "timeMonth": 5551,
+    "timeYear": 5551,
     "dailyMinutesDown": {
-      "2025-03-16": 52
+      "2025-03-16": 57
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://c1.my-control-panel.com",
     "icon": "https://icons.duckduckgo.com/ip3/c1.my-control-panel.com.ico",
     "slug": "c1",
-    "status": "down",
-    "uptime": "97.68%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
-    "time": 2454,
-    "timeDay": 2332,
-    "timeWeek": 2454,
-    "timeMonth": 2454,
-    "timeYear": 2454,
+    "status": "up",
+    "uptime": "97.33%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 2312,
+    "timeDay": 2177,
+    "timeWeek": 2312,
+    "timeMonth": 2312,
+    "timeYear": 2312,
     "dailyMinutesDown": {
-      "2025-03-16": 40
+      "2025-03-16": 46
     }
   }
 ]
