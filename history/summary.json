@@ -4,19 +4,19 @@
     "url": "https://www.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.abstract-hosting.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
-    "time": 3924,
-    "timeDay": 5562,
-    "timeWeek": 3924,
-    "timeMonth": 3924,
-    "timeYear": 3924,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 3724,
+    "timeDay": 4955,
+    "timeWeek": 3724,
+    "timeMonth": 3724,
+    "timeYear": 3724,
     "dailyMinutesDown": {
-      "2025-03-16": 8
+      "2025-03-16": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://billing.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
-    "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
-    "time": 5323,
-    "timeDay": 8051,
-    "timeWeek": 5323,
-    "timeMonth": 5323,
-    "timeYear": 5323,
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 4533,
+    "timeDay": 6184,
+    "timeWeek": 4533,
+    "timeMonth": 4533,
+    "timeYear": 4533,
     "dailyMinutesDown": {
-      "2025-03-16": 21
+      "2025-03-16": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://c1.my-control-panel.com",
     "icon": "https://icons.duckduckgo.com/ip3/c1.my-control-panel.com.ico",
     "slug": "c1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2083,
-    "timeDay": 1564,
-    "timeWeek": 2083,
-    "timeMonth": 2083,
-    "timeYear": 2083,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 2026,
+    "timeDay": 1587,
+    "timeWeek": 2026,
+    "timeMonth": 2026,
+    "timeYear": 2026,
     "dailyMinutesDown": {
-      "2025-03-16": 0
+      "2025-03-16": 4
     }
   }
 ]
