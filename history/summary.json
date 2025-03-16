@@ -4,19 +4,19 @@
     "url": "https://www.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.abstract-hosting.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "97.54%",
-    "time": 5365,
-    "timeDay": 6308,
-    "timeWeek": 5365,
-    "timeMonth": 5365,
-    "timeYear": 5365,
+    "status": "up",
+    "uptime": "96.14%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
+    "time": 5011,
+    "timeDay": 5805,
+    "timeWeek": 5011,
+    "timeMonth": 5011,
+    "timeYear": 5011,
     "dailyMinutesDown": {
-      "2025-03-16": 41
+      "2025-03-16": 66
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "97.00%",
     "uptimeDay": "96.48%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "96.95%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 3972,
     "timeDay": 4581,
     "timeWeek": 3972,
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/c1.my-control-panel.com.ico",
     "slug": "c1",
     "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "97.14%",
+    "uptime": "97.64%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
     "time": 2616,
     "timeDay": 2515,
     "timeWeek": 2616,
     "timeMonth": 2616,
     "timeYear": 2616,
     "dailyMinutesDown": {
-      "2025-03-16": 48
+      "2025-03-16": 40
     }
   }
 ]
