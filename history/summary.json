@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.abstract-hosting.com.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
+    "uptime": "97.31%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 6414,
     "timeDay": 7626,
     "timeWeek": 6414,
     "timeMonth": 6414,
     "timeYear": 6414,
     "dailyMinutesDown": {
-      "2025-03-17": 12,
       "2025-03-16": 66
     }
   },
@@ -25,9 +24,9 @@
     "url": "https://billing.abstract-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "96.48%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "97.89%",
@@ -37,6 +36,7 @@
     "timeMonth": 5252,
     "timeYear": 5252,
     "dailyMinutesDown": {
+      "2025-03-17": 1,
       "2025-03-16": 51
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/c1.my-control-panel.com.ico",
     "slug": "c1",
     "status": "down",
-    "uptime": "97.11%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "97.11%",
+    "uptime": "96.13%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "96.13%",
     "time": 2084,
     "timeDay": 1963,
     "timeWeek": 2084,
     "timeMonth": 2084,
     "timeYear": 2084,
     "dailyMinutesDown": {
-      "2025-03-17": 29,
+      "2025-03-17": 54,
       "2025-03-16": 40
     }
   }
