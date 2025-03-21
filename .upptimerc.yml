@@ -9,6 +9,10 @@ sites:
     url: https://billing.abstract-hosting.com
   - name: 💻 c1
     url: https://c1.my-control-panel.com
+  - name: 🎛️ Games
+    url: games.abstract-hosting.com
+  - name: us-west-1
+    url: node1.abstract-hosting.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Abstract-Status
   introTitle: "Our Live Stats"
-  introMessage: See what we have to offer. [**Check us oute**](https://abstract-hosting.com)
+  introMessage: See what we have to offer. [**Check us out**](https://abstract-hosting.com)
   navbar:
     - title: Status
       href: /
