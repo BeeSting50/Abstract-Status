@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "games",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.38%",
     "uptimeDay": "5.14%",
-    "uptimeWeek": "20.50%",
-    "uptimeMonth": "20.50%",
-    "uptimeYear": "20.50%",
+    "uptimeWeek": "20.38%",
+    "uptimeMonth": "20.38%",
+    "uptimeYear": "20.38%",
     "time": 514,
     "timeDay": 518,
     "timeWeek": 514,
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2025-03-23": 0,
+      "2025-03-23": 16,
       "2025-03-22": 1374,
       "2025-03-21": 707
     }
