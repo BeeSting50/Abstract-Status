@@ -11,8 +11,6 @@ sites:
     url: https://c1.my-control-panel.com
   - name: 🎛️ Game Panel
     url: panel.abstract-hosting.com
-  - name: us-west-1
-    ip: 147.135.44.98
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
