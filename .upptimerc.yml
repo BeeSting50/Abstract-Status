@@ -9,10 +9,10 @@ sites:
     url: https://billing.abstract-hosting.com
   - name: 💻 c1
     url: https://c1.my-control-panel.com
-  - name: 🎛️ Games
-    url: games.abstract-hosting.com
+  - name: 🎛️ Game Panel
+    url: panel.abstract-hosting.com
   - name: us-west-1
-    url: node1.abstract-hosting.com
+    ip: 147.135.44.98
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
