@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.abstract-hosting.com.ico",
     "slug": "billing",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 3702,
     "timeDay": 3837,
     "timeWeek": 4145,
     "timeMonth": 3702,
     "timeYear": 3702,
     "dailyMinutesDown": {
-      "2025-04-14": 3,
       "2025-03-17": 41,
       "2025-03-16": 51
     }
@@ -74,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 0,
-    "timeWeek": 457,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 617,
+    "timeDay": 796,
+    "timeWeek": 505,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   }
 ]
